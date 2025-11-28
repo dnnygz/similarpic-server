@@ -252,7 +252,7 @@ pytest tests/
 This backend uses the SimilarPic models trained by **aleec02**.
 The models were obtained from the original repository:
 
-👉 https://github.com/aleec02/TF-similarPic[https://github.com/aleec02/TF-similarPic]
+👉 https://github.com/aleec02/TF-similarPic
 
 The following artifacts are included in this repository to facilitate backend execution:
 
